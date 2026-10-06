@@ -1,0 +1,7 @@
+*.asv
+*.pyc
+*.pth
+*.png
+*.spydata
+*.txt
+*.csv
