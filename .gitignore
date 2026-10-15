@@ -3,5 +3,5 @@
 *.pth
 *.png
 *.spydata
-*.txt
 *.csv
+.venv/
